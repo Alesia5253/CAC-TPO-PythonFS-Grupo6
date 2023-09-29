@@ -198,6 +198,7 @@ ul, ol {
     padding: 3vh;
 }
 
+/* prueba para ubicar el formulario */
 .contacto-prueba{
     display: flex;
     flex-direction: column;
