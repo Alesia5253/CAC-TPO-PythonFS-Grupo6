@@ -1,3 +1,4 @@
+// Código para validar el formulario
 // Obtener el formulario por su ID
 var formulario = document.getElementById("miform");
 
