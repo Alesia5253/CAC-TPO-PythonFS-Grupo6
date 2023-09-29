@@ -198,6 +198,16 @@ ul, ol {
     padding: 3vh;
 }
 
+.contacto-prueba{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20vh;
+    padding: 10vh;
+}
+
 
 /*--------------------------------------------------------------
 # GOURMET
